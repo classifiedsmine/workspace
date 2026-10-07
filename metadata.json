@@ -1,0 +1,7 @@
+{
+  "name": "WorkSphere - Global Freelance Marketplace",
+  "description": "High-performance global freelance marketplace featuring unified user accounts, milestone escrow with 14-day buyer protection, multi-tier service packages, server-rendered SEO, and comprehensive admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
